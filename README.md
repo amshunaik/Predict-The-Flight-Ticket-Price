@@ -8,9 +8,7 @@ predict future flight prices and plan their journey accordingly.
 Datasets:
 
  -The file Dataset.xlsx - Sheet1.csv is used as the training dataset.
- 
  -The train dataset contains 10683 rows where each row represents a train-image with 11 columns
- 
  -containing :
          ● One Airline column
          ● One Price column: continuous form .
